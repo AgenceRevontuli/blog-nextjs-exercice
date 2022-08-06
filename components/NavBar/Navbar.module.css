@@ -1,0 +1,26 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+
+    padding: 30px 0; 
+
+    background: #212A3D;
+}
+
+.nav a {
+    margin-right: 30px;
+
+    color: #fff;
+
+    border-bottom: none;
+}
+
+.nav a:hover {
+    border-bottom: 3px solid #fff;
+}
+
+.nav a:last-child{
+    margin-right: inherit;
+}

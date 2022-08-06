@@ -1,0 +1,16 @@
+.users {
+    max-width: 800px;
+}
+
+.user__card {
+  display: flex;
+  justify-content: space-between;
+
+  width: 100%;
+  padding: 20px;
+
+  border: 1px solid #bcbcbc;
+  border-radius: 5px;
+
+  margin-bottom: 20px;
+}
