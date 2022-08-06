@@ -37,7 +37,7 @@ Maybe is not the right or best way to do, but if you want to improve, i'll be ha
 
 ## Example 
 
-I will upload my website on Vercel if you want to see and test the live website 
+live version of my app : https://blog-nextjs-exercice.vercel.app/
 And I'll upload an video of my achievement for beginners like me who want to start nextJS. 
 
 ## Info 
