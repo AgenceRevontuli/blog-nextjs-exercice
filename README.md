@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## This project is a exercice to learn NextJS 
+Hi ! 👋  
+I'm working on a blog front-end developpmeent to improve my skill with nextJS. 
+If you want to clone or remake it to learn nextJS dont hesitate to ask or follow instructions below. 
 
-## Getting Started
+## Instructions 
 
-First, run the development server:
+👉 Home Page 
+1. Display navbar on all website pages 
+2. Create 2 card with link that redirect to /blog and /users 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+👉 Blog Page 
+1. Use JSONPLACEHOLDER API to display all posts on the page 
+2. Be sure all post had Link 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+👉 Single Article 
+1. Display the right title and body for the article 
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+👉 Users list 
+1. Display all users with the JSONPLACEHOLDER API 
+2. Make a mailto link to display contact info for the users 
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## What we learn ? 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+To help you, you've to use all mathodes : 
+getStaticProps()
+getStaticPaths()
+getServerSideProps() 
 
-## Learn More
+Also need to learn how to make a layout component to display the navbar on all page without copy the component on all pages. 
 
-To learn more about Next.js, take a look at the following resources:
+You will learn too how to fetch data from an extern API.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+I'm not using Bootstap or Tailwind on this projet. 
+I prefer to make my own css with css component logic. 
+Maybe is not the right or best way to do, but if you want to improve, i'll be happy to ear about it. 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Example 
 
-## Deploy on Vercel
+I will upload my website on Vercel if you want to see and test the live website 
+And I'll upload an video of my achievement for beginners like me who want to start nextJS. 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Info 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Hope you will enjoy this repo and i'm happy if I can help you ! 
+
+@Youtube : https://www.youtube.com/channel/UCyOG24mGCuB-MNCsEgyumOw
+
+@Twitter : https://twitter.com/TristanTornat
+
+@Mail : tristan@revontuli.fr 
+
